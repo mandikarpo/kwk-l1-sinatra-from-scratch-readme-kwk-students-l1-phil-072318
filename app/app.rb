@@ -1,4 +1,4 @@
-require 'sinatra'
+require 'sinatra' #telling computer to use sinatra 
 class App < Sinatra::Base
 
   get '/' do 
